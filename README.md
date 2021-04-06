@@ -24,5 +24,12 @@ I made this youtube video explaining some basic NN concepts by utilizing this de
 * Import project via Unity Hub
 * Build and enjoy!
 
+# TODO
+- [x] Dense net implementation
+- [ ] Conv net implementation
+- [ ] Generic layers
+- [ ] Refactoring
+- [ ] Ability to load any ONNX model 
+
 # Issues
 If you run into any issues or want a feature, please open an issue.
