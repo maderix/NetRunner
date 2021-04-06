@@ -1,9 +1,16 @@
 # NetRunner
 NetRunner is a simple neural network visualizer created in Unity3D. 
-At this point it's a proof of concept highlighting the use of Unity's inbuilt Baracuda library to load and run neural network models converted from ONNX.
-This example demonstrates a simple two layer dense network trained in Keras on MNIST dataset and converted to ONNX via Keras2ONNX library [ https://pypi.org/project/keras2onnx/ ]
-The rendering elements are made using Unity's HDRP pipeline and free assets.
+
 ![Alt Text](netrunner.gif)
+
+
+At this point it's a proof of concept highlighting the use of Unity's inbuilt Baracuda library to load and run neural network models converted from ONNX.
+This example demonstrates a simple two layer dense network trained in Keras on MNIST dataset and 
+converted to ONNX via Keras2ONNX library [ https://pypi.org/project/keras2onnx/ ]
+
+The rendering elements are made using Unity's HDRP pipeline and free assets.
+
+
 # Neural net explainer
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qtGEB-TtEP4
 " target="_blank"><img src="http://img.youtube.com/vi/qtGEB-TtEP4/0.jpg" 
