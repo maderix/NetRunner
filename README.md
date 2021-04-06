@@ -16,6 +16,8 @@ The rendering elements are made using Unity's HDRP pipeline and free assets.
 " target="_blank"><img src="http://img.youtube.com/vi/qtGEB-TtEP4/0.jpg" 
 alt="Neural net primer" width="240" height="180" border="10" /></a>
 
+I made this youtube video explaining some basic NN concepts by utilizing this demo.
+
 # How to try
 * Install Unity 2019.4.18f1 or later
 * Clone this repo or download zip
